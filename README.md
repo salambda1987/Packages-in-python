@@ -1,2 +1,2 @@
-# Packages-in-python
+# Numpy-project
 Exploring the fundamental packages of python
