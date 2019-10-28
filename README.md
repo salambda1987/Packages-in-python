@@ -1,2 +1,2 @@
-# Packages-in-pyth
+# Packages-in-python
 Exploring the fundamental packages of python
